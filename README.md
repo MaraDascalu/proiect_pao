@@ -10,6 +10,14 @@ Clase folosite:
 - Bilet
 - Cos
 - Locatie
+- Actor
+
+Cateva actiuni posibile ale clientului:
+- adaugare de bilet la cosul de cumparaturi
+- afisare program
+- afisare pret total al cosului
+- eliminarea biletelor din cos //TODO
+- modificare cantitatatii biletelor aflate deja in cos  //TODO
 
 
  
