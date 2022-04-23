@@ -1,7 +1,8 @@
-package pao.proiect;
+package pao.service;
 
-import java.util.ArrayList;
+import pao.entity.*;
 import java.util.HashMap;
+import java.util.ArrayList;
 
 public class Service {
 
@@ -84,7 +85,7 @@ public class Service {
     }
 
     public float aplicaReducere(Cos c){
-        int pretTotal = totalPlata(c);
+        int pretTotal = afiseazaTotalPlata(c);
         return pretTotal - (c.getClient().getDiscount() / 100) * pretTotal;
     }
 

@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def6a4b4-f62d-469b-9d7f-4f8cef6891fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Bilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Bilet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/ClientFidel.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/ClientFidel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Cos.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Cos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Genul.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Genul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Locatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Locatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pao/proiect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pao/proiect/Spectacol.java" beforeDir="false" afterPath="$PROJECT_DIR$/pao/proiect/entity/Spectacol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -44,6 +35,16 @@
       <recent name="$PROJECT_DIR$/pao/proiect/service" />
       <recent name="$PROJECT_DIR$/pao/proiect/entity" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pao.proiect.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -1,4 +1,4 @@
-package pao.proiect;
+package pao.entity;
 
 public enum Genul {
     COMEDIE,

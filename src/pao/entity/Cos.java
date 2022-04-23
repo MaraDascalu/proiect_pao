@@ -1,6 +1,5 @@
-package pao.proiect;
+package pao.entity;
 
-import java.util.Date;
 import java.util.HashMap;
 
 public class Cos {

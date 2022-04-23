@@ -1,4 +1,4 @@
-package pao.proiect;
+package pao.entity;
 
 public class Client {
     protected String nume;

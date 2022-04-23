@@ -1,4 +1,4 @@
-package pao.proiect;
+package pao.entity;
 
 import java.time.LocalTime;
 import java.util.Arrays;

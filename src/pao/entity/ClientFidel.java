@@ -1,4 +1,4 @@
-package pao.proiect;
+package pao.entity;
 
 public class ClientFidel extends Client{
     private float discount;

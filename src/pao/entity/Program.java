@@ -1,4 +1,4 @@
-package pao.proiect;
+package pao.entity;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
