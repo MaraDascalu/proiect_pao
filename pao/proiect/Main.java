@@ -139,7 +139,7 @@ public class Main {
                     }
                     else if (raspuns.startsWith("4")) {
                         System.out.println();
-                        int totalDePlata = service.totalPlata(cos);
+                        int totalDePlata = service.afiseazaTotalPlata(cos);
                         if (totalDePlata != 0) {
                             System.out.println("Aveti de achitat: " + totalDePlata);
                         }

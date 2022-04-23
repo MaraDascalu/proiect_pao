@@ -61,7 +61,7 @@ public class Service {
         System.out.println(program[ziua]);
     }
 
-    public String[] saliTeatru(Program p, String teatru){        //afiseaza salile din programul curent care se afla in teatrul dat ca param
+    public String[] afiseazaSaliDisponibile(Program p, String teatru){        //afiseaza salile din programul curent care se afla in teatrul dat ca param
         ArrayList<Spectacol>[] program = p.getProgram();
         String[] lista = new String[10];
         int cnt = 0;
@@ -72,7 +72,7 @@ public class Service {
         return lista;
     }
 
-    public int totalPlata(Cos c) {
+    public int afiseazaTotalPlata(Cos c) {
         int total = 0;
         if (afiseazaCos(c)){
             HashMap<Bilet, Integer> bilete = c.getBilete();
